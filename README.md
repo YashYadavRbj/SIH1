@@ -30,7 +30,8 @@ College Email OTP + JWT
 - Cloudinary
 
 ### Hosting 
-- Vercel + Render.com
+- Vercel +
+- Render.com
 
 ## Tools
 - Git 
