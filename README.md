@@ -21,3 +21,9 @@ Student Innovation-Smart education,a concept that describes learning in digital 
 ### Database
 MongoDB
 
+## Team Members
+Disha Rai, Amisha Kumari, Khushi Rai, Ayush Srivastav, Yash Yadav, Archit Srivastav
+
+## License
+This project is for educational purpose.
+
