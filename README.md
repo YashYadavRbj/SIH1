@@ -38,8 +38,19 @@ College Email OTP + JWT
 - GitHub
 - VS code
 
+## Screenshots
+### Browse page
+![alt text](<Screenshot/Screenshot 2026-09-08 222624.png>)
+
+### History Page
+![alt text](<Screenshot/Screenshot 2026-09-08 222655.png>)
+
+### Log in Page
+![alt text](<Screenshot/Screenshot 2026-09-08 222430.png>)
 
 
+### Register Page
+![alt text](<Screenshot/Screenshot 2026-09-08 222501.png>)
 
 ## Team Members
 - Disha Rai
