@@ -1,9 +1,13 @@
 # SKIVERSE
 
-## About
 SKIVERSE is a skill-sharing platform where students can learn and share skills with other students.
 
+## About
+
+SKIVERSE is a skill-sharing platform that connects students to learn and share skills with each other. Users can learn skills from others using credits and earn credits by sharing their own knowledge, creating a collaborative and peer-to-peer learning ecosystem.
+
 ## Problem Statement
+
 Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.
 
 ## Tech Stacks
@@ -30,13 +34,23 @@ College Email OTP + JWT
 - Cloudinary
 
 ### Hosting 
-- Vercel +
+- Vercel 
 - Render.com
 
 ## Tools
 - Git 
 - GitHub
 - VS code
+
+## Usage
+
+1. Open the SKIVERSE application.
+2. Register a new account or log in to an existing account.
+3. Browse the available skills shared by other users.
+4. Select a skill you want to learn.
+5. Access the available learning content.
+6. Share your own skills to contribute to the platform and earn credits.
+
 
 ## Screenshots
 ### Browse page
